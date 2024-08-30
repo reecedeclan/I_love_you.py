@@ -1,0 +1,8 @@
+altgraph==0.17.4
+macholib==1.16.3
+modulegraph==0.19.6
+packaging==24.1
+py2app==0.28.8
+pyinstaller==6.10.0
+pyinstaller-hooks-contrib==2024.8
+setuptools==74.0.0
